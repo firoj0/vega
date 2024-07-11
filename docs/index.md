@@ -1,4 +1,4 @@
----
+git --- (c)
 layout: home
 menu: home
 title: A Visualization Grammar
